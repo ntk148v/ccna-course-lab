@@ -1,2 +1,3 @@
-# ccna-course-lab
-Store CCNA course labs (Cisco Packet Tracer)
+# CCNA Course Lab
+
+Store CCNA course labs (for Cisco Packet Tracer)
